@@ -1,0 +1,10 @@
+<layer-list xmlns:android="http://schemas.android.com/apk/res/android"
+    android:paddingEnd="50dp">
+    <!-- Fondo circular con espacio alrededor -->
+    <item android:drawable="@drawable/ic_fondo_action_bar"></item>
+
+    <!-- Número "7" centrado y escalado -->
+    <item
+        android:drawable="@drawable/ic_numero_action_bar"
+        android:gravity="center"></item>
+</layer-list>

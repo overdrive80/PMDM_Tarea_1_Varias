@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">ChronometerTabata</string>
+    <string name="series">Series</string>
+    <string name="trabajo">Work</string>
+    <string name="descanso">Rest</string>
+    <string name="iniciar">Start working</string>
+    <string name="estado_inicial">Work/Rest</string>
+    <string name="estado_trabajo">Work</string>
+    <string name="estado_descanso">Rest</string>
+    <string name="tiempo_inicial">0</string>
+    <string name="seriesresta">Series Left:</string>
+    <string name="fin">Finished!</string>
+</resources>

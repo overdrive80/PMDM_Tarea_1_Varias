@@ -1,0 +1,26 @@
+1. En el enunciado dice que para la posición 1 debe devolver el 1 como primo.
+Sin embargo, el número 1 por convenio no es un número primo ya que sólo es divisible
+por sí mismo. He adaptado el código en base a la definición formal de número primo.
+
+2. En base a lo anterior, el texto de la descripción del ejercicio ha variado y para 
+la posición 6 el número primo es el 13, y del 888 es el 6907.
+
+3. No tenía claro si quería también que coincida los colores en negro de la app, 
+pero he creado un tema con otra gama de colores. Cambiarlo no es nada así que espero
+que no reste puntuación.
+
+4. El icono del actionbar es lo que más me ha costado porque no se muy bien como 
+es lo más correcto para implementar. Al principio opté por imágenes renderizadas
+pero luego investigué algo sobre layer-list y aunque es una movida queda bien.
+De todas formas, si existe la manera recomendada, por favor, me gustaría saberlo.
+
+5. Para que no se quedará tostada la aplicación la ejecución del cálculo lo he realizado
+con Executor+Runnable. Se que es algo que se dará más adelante pero ha sido fácil de 
+hacer con las guías de Android.
+
+6. En el enunciado dice "... hasta 6 dígitos" pero no dice si inclusivo o exclusivo.
+En la implementación he optado por no permitir más de 6 dígitos, por lo que el máximo
+valor permitido es 99999.
+
+7. Para crear el icono de la aplicación ha sido más fácil con el asistente y no he
+tenido problemas.
